@@ -15,5 +15,14 @@
   "license": "ISC",
   "dependencies": {
     "@pythnetwork/entropy-sdk-solidity": "^2.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumprahul/pythentropy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dumprahul/pythentropy/issues"
+  },
+  "homepage": "https://github.com/dumprahul/pythentropy#readme"
 }
